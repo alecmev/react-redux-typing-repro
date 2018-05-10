@@ -1,0 +1,9 @@
+{
+  "license": "MIT",
+  "dependencies": {
+    "@types/react-redux": "^6.0.0",
+    "react-redux": "^5.0.7",
+    "redux": "^4.0.0",
+    "typescript": "^2.8.3"
+  }
+}
